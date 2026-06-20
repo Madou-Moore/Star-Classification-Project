@@ -1,0 +1,3 @@
+Feature Set,Test Accuracy,Macro F1,GALAXY F1,QSO F1,STAR F1
+Set C — Photometry only (no redshift),0.8647,0.8639,0.91,0.8488,0.8329
+Set D — Full features (with redshift),0.9798,0.9798,0.97,0.9724,0.997
