@@ -1,4 +1,4 @@
 Feature Set,Test Accuracy,Macro F1
-"Raw magnitudes (u,g,r,i,z)",0.8595,0.8587
-"Color indices only (u_g,g_r,r_i,i_z)",0.8562,0.8556
-Magnitudes + colors (no redshift),0.8772,0.8767
+"Raw magnitudes (u,g,r,i,z)",0.8597,0.8588
+"Color indices only (u_g,g_r,r_i,i_z)",0.8557,0.8552
+Magnitudes + colors (no redshift),0.8763,0.8759
