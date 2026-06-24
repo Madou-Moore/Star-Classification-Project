@@ -1,7 +1,7 @@
 Model,CV Accuracy (mean),CV Accuracy (std),Test Accuracy,Macro F1
-Random Forest,0.9763,0.0027,0.979,0.979
-Gradient Boosting,0.9762,0.0022,0.9787,0.9787
-Decision Tree,0.9658,0.0016,0.969,0.969
+Gradient Boosting,0.9771,0.0022,0.9798,0.9798
+Random Forest,0.9763,0.003,0.9788,0.9788
+Decision Tree,0.9662,0.0033,0.97,0.97
 Logistic Regression,0.9545,0.0027,0.959,0.9589
 K-Nearest Neighbors,0.9452,0.0025,0.9528,0.9529
 Dummy (most frequent),0.3333,0.0,0.3333,0.1667
